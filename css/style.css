@@ -38,8 +38,16 @@ nav a:hover {
     margin-right: 2.5%;
 }
 
+.card {
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+}
+
 .card a {
     text-align: center;
+    text-decoration: none;
+    color: blue;
 }
 
 img {
@@ -50,14 +58,3 @@ h1 {
     text-align: center;
 }
 
-.card-four-plus {
-    float: left;
-    width: 25.3%;
-    margin-left: 4%;
-    margin-right: 4%
-}
-
-.card-four-plus a {
-    text-align: center;
-    text-decoration: none;
-}
